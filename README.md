@@ -139,4 +139,3 @@ Desenvolvedor Java
 
 ---
 
-<p align="center">⭐ Se o projeto te interessou, deixe uma estrela!</p>
